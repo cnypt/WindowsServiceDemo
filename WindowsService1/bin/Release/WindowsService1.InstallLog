@@ -1,0 +1,21 @@
+﻿正在安装程序集“D:\DanMao\VS2015Learn\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\DanMao\VS2015Learn\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe
+   logfile = D:\DanMao\VS2015Learn\WindowsService1\WindowsService1\bin\Release\WindowsService1.InstallLog
+正在安装服务 TimeTask...
+已成功安装服务 TimeTask。
+正在日志 Application 中创建 EventLog 源 TimeTask...
+正在提交程序集“D:\DanMao\VS2015Learn\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\DanMao\VS2015Learn\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe
+   logfile = D:\DanMao\VS2015Learn\WindowsService1\WindowsService1\bin\Release\WindowsService1.InstallLog
+正在卸载程序集“D:\DanMao\VS2015Learn\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\DanMao\VS2015Learn\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe
+   logfile = D:\DanMao\VS2015Learn\WindowsService1\WindowsService1\bin\Release\WindowsService1.InstallLog
+正在移除 EventLog 源 TimeTask。
+正在从系统中移除服务 TimeTask...
+已成功地从系统中移除服务 TimeTask。

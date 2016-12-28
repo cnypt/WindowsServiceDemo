@@ -1,0 +1,4 @@
+至少需要拷贝  InstallUtil.exe  文件   
+              WriteFile.exe    文件
+              
+安装的时候，需要以管理员身份运行注册.bat文件

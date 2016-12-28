@@ -1,0 +1,7 @@
+D:\DanMao\VS2015Learn\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe.config
+D:\DanMao\VS2015Learn\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe
+D:\DanMao\VS2015Learn\WindowsService1\WindowsService1\bin\Release\WindowsService1.pdb
+D:\DanMao\VS2015Learn\WindowsService1\WindowsService1\obj\Release\WindowsService1.ProjectInstaller.resources
+D:\DanMao\VS2015Learn\WindowsService1\WindowsService1\obj\Release\WindowsService1.csproj.GenerateResource.Cache
+D:\DanMao\VS2015Learn\WindowsService1\WindowsService1\obj\Release\WindowsService1.exe
+D:\DanMao\VS2015Learn\WindowsService1\WindowsService1\obj\Release\WindowsService1.pdb
